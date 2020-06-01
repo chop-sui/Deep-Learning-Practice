@@ -2,7 +2,8 @@
 
 ## Initial Procedure
 
-1. Importing Library 
+1. Importing Library
+
 ![import](https://user-images.githubusercontent.com/55661741/83390883-9ea02380-a42d-11ea-81b5-f9f0cf1babf3.PNG)
 
 2. Loading the MNIST dataset & Split into train and test datasets 
